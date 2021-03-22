@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.WWTravelClubDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WWTravelClubDB/LibraryDesignTimeDbContextFactory.cs">
+    <Files>
+      <File FileName="WWTravelClubDB/Program.cs" Line="1" Column="1" />
+      <File FileName="WWTravelClubDB/Models/Destination.cs" />
+      <File FileName="WWTravelClubDB/Models/Package.cs" />
+      <File FileName="WWTravelClubDB/MainDbContext.cs" />
+      <File FileName="WWTravelClubDB/LibraryDesignTimeDbContextFactory.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WWTravelClubDB" expanded="True" selected="True">
+            <Node name="WWTravelClubDB" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/bin/Debug/net5.0/WWTravelClubDB.deps.json
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/bin/Debug/net5.0/WWTravelClubDB.dll
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/bin/Debug/net5.0/ref/WWTravelClubDB.dll
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/bin/Debug/net5.0/WWTravelClubDB.pdb
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.csprojAssemblyReference.cache
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.AssemblyInfoInputs.cache
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.AssemblyInfo.cs
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.csproj.CoreCompileInputs.cache
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.dll
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/ref/WWTravelClubDB.dll
+/Users/klieu/Dev/dotnet/SoftwareArchCSharp9Net5/ch08/WWTravelClubDB/WWTravelClubDB/obj/Debug/net5.0/WWTravelClubDB.pdb
